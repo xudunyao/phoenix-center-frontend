@@ -1,0 +1,20 @@
+.login .ant-input-group-addon {
+  border: none;
+  background-color: #fff;
+}
+.login .ant-input-group-addon:hover {
+  background-color: #fff;
+}
+.login .ant-input-affix-wrapper{
+ border-top: none;
+ border-right: none;
+ border-left: none;
+ height: 50px;
+}
+.login .ant-input-affix-wrapper-focused {
+  box-shadow: none;
+}
+.login-form {
+  padding-top: 30px;
+}
+  
